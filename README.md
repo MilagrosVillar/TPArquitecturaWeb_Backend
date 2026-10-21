@@ -1,6 +1,6 @@
 # Backend base de tareas
 
-Versión inicial independiente del backend principal. Contiene el modelo `Tarea`, su repositorio JPA, el servicio CRUD y el controlador REST.
+Versión inicial independiente del backend principal. Contiene el modelo `Tarea`, su repositorio JPA, el servicio CRUD y el controlador REST. Las clases tienen comentarios explicativos y [ARQUITECTURA_WEB.md](ARQUITECTURA_WEB.md) relaciona las decisiones con los contenidos de la materia.
 
 ## Ejecutar
 
